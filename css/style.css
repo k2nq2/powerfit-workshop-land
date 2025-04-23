@@ -217,7 +217,7 @@ ul {
     .header-wrap{
         padding: 4rem 3rem 12.6rem 3rem;
         background-image: url(../images/header-bg-mob.png);
-        background-size: cover;
+        background-size: contain;
         background-repeat: no-repeat;
         height: 100%;
         margin-top: 0rem;
